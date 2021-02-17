@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brisk286
 - 👀 I’m interested in the game, reading, cycling.
 - 🌱 I’m currently learning Recommender System and Machine Learning.
-- 💞️ I’m looking to collaborate on college student, just like me.
+- 💞️ I’m looking to collaborate on college student.
 - 📫 To reach me, QQ: 1459588761 
 
 <!---
